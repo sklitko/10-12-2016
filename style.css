@@ -1,0 +1,27 @@
+body, html {
+    margin: 0;
+    height: 100%;
+}
+
+/*div {*/
+    /*height: 100px;*/
+    /*width: 100px;*/
+    /*background: black;*/
+    /*float: left;*/
+/*}*/
+
+.tenis {
+    height: 10px;
+    width: 100px;
+    background: black;
+    position: fixed;
+    bottom: 0;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background: black;
+    position: fixed;
+}
