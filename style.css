@@ -25,3 +25,10 @@ body, html {
     background: black;
     position: fixed;
 }
+
+.hour, .min, .sec {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    float: left;
+}
